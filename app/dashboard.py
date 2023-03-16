@@ -1,9 +1,6 @@
 import streamlit as st
 import msal_streamlit_authentication
 
-import streamlit as st
-from msal_streamlit_authentication import msal_authentication
-
 
 login_token = msal_authentication(
     auth={
