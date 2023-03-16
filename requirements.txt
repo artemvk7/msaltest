@@ -1,0 +1,10 @@
+streamlit
+pandas
+sqlalchemy
+pyodbc
+streamlit-aggrid
+openpyxl
+msal-requests-auth
+msal
+python-dotenv
+msal-streamlit-authentication==1.0.7
